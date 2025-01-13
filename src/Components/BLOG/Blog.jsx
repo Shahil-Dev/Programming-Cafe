@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types'; // ES6
+import { IoBookmarks } from "react-icons/io5";
 
 
-
-const Blog = ({ boi }) => {
+const Blog = ({ boi , handleMark ,handleMarkAsRead}) => {
 
     const { author, title, post_date, reading_time,tags, cover, author_img } = boi
     return (
@@ -20,15 +20,16 @@ const Blog = ({ boi }) => {
                         </div>
                     </div>
                 </div>
-                <div>
+                <div className='flex  '>
                     <p>{reading_time}</p>
+                    <button onClick={()=>handleMark(boi)} className='mt-[-20px] ml-2'><IoBookmarks  /></button>
                 </div>
             </div>
             <div className="mt-5">
                 <h1 className="text-[40px] font-bold">{title}</h1>
                 <p className="text-[#11111199]">{tags}</p>
-            </div>
-           <a className="underline" href=""> <h1>Mark as read</h1></a>
+            </div><button className='underline' onClick={()=> handleMarkAsRead(reading_time)}> <h1>Mark as read</h1></button>
+           
         </div>
     );
 };
@@ -37,5 +38,13 @@ const Blog = ({ boi }) => {
 Blog.propTypes ={
     boi:PropTypes.object.isRequired
 }
+Blog.propTypes ={
+    handleMark:PropTypes.object.isRequired
+}
+Blog.propTypes ={
+    handleMarkAsRead:PropTypes.object.isRequired
+}
+
+
 
 export default Blog;
