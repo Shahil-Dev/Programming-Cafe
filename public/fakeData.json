@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "cover": "https://images.pexels.com/photos/28176919/pexels-photo-28176919/free-photo-of-office-equipment-blank-screen-mockup-table.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "author": "John Doe",
+        "author_img": "https://plus.unsplash.com/premium_photo-1706429844786-20dc176a88a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3DF",
+        "post_date": "2025-01-10",
+        "reading_time": "5 min",
+        "title": "Exploring the Future of AI",
+        "tags": [
+            "#AI",
+            "#Technology",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJsb2clMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Jane Smith",
+        "author_img": "https://images.unsplash.com/photo-1484515991647-c5760fcecfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-12",
+        "reading_time": "7 min",
+        "title": "Top 10 Programming Languages to Learn",
+        "tags": [
+            "#Programming",
+            "#Learning",
+            "#Tech"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGJsb2clMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Alice Johnson",
+        "author_img": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-09",
+        "reading_time": "6 min",
+        "title": "The Rise of Quantum Computing",
+        "tags": [
+            "#Quantum",
+            "#Science",
+            "#Computing"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://images.unsplash.com/photo-1495001258031-d1b407bc1776?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGJsb2clMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Bob Lee",
+        "author_img": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-11",
+        "reading_time": "4 min",
+        "title": "Understanding Blockchain Technology",
+        "tags": [
+            "#Blockchain",
+            "#Cryptocurrency",
+            "#Finance"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzR8fGJsb2clMjBjb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Chris Davis",
+        "author_img": "https://images.unsplash.com/photo-1453396450673-3fe83d2db2c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-08",
+        "reading_time": "8 min",
+        "title": "The Benefits of a Plant-Based Diet",
+        "tags": [
+            "#Health",
+            "#Diet",
+            "#Lifestyle"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://images.unsplash.com/photo-1518665750801-883c188a660d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA4fHxibG9nJTIwY292ZXJ8ZW58MHx8MHx8fDA%3D",
+        "author": "Emma Wilson",
+        "author_img": "https://images.unsplash.com/photo-1674049405771-4c1f8c312d8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA0fHxhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-07",
+        "reading_time": "10 min",
+        "title": "Climate Change and Its Impact on Agriculture",
+        "tags": [
+            "#ClimateChange",
+            "#Environment",
+            "#Agriculture"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://images.unsplash.com/photo-1490914327627-9fe8d52f4d90?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI2fHxibG9nJTIwY292ZXJ8ZW58MHx8MHx8fDA%3D",
+        "author": "Liam Brown",
+        "author_img": "https://plus.unsplash.com/premium_photo-1682088852290-a6aaa1472920?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU3fHxhdXRob3J8ZW58MHx8MHx8fDA%3D",
+        "post_date": "2025-01-06",
+        "reading_time": "3 min",
+        "title": "The Psychology of Habits",
+        "tags": [
+            "#Psychology",
+            "#Habits",
+            "#Mindset"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://plus.unsplash.com/premium_photo-1661337018602-953ed2dfe95d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI5fHxibG9nJTIwY292ZXJ8ZW58MHx8MHx8fDA%3D",
+        "author": "Sophia Miller",
+        "author_img": "https://images.unsplash.com/photo-1688572865439-be9cd43b6986?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "post_date": "2025-01-05",
+        "reading_time": "9 min",
+        "title": "Exploring Space: The Next Frontier",
+        "tags": [
+            "#Space",
+            "#Exploration",
+            "#Science"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHxibG9nJTIwY292ZXJ8ZW58MHx8MHx8fDA%3D",
+        "author": "Oliver Taylor",
+        "author_img": "https://images.unsplash.com/photo-1630344745900-b5385f94f26c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "post_date": "2025-01-04",
+        "reading_time": "5 min",
+        "title": "Advancements in Renewable Energy",
+        "tags": [
+            "#RenewableEnergy",
+            "#GreenTech",
+            "#Sustainability"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHxibG9nJTIwY292ZXJ8ZW58MHx8MHx8fDA%3D",
+        "author": "Mia Anderson",
+        "author_img": "https://images.unsplash.com/photo-1733231291506-34503f83f503?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
+        "post_date": "2025-01-03",
+        "reading_time": "6 min",
+        "title": "The Art of Mindfulness",
+        "tags": [
+            "#Mindfulness",
+            "#Wellness",
+            "#MentalHealth"
+        ]
+    }
+]
