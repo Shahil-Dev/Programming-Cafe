@@ -5,7 +5,7 @@
         "author": "John Doe",
         "author_img": "https://plus.unsplash.com/premium_photo-1706429844786-20dc176a88a0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njl8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3DF",
         "post_date": "2025-01-10",
-        "reading_time": "5",
+        "reading_time": 5,
         "title": "Exploring the Future of AI",
         "tags": [
             "#AI",
@@ -19,7 +19,7 @@
         "author": "Jane Smith",
         "author_img": "https://images.unsplash.com/photo-1484515991647-c5760fcecfc7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-12",
-        "reading_time": "7",
+        "reading_time": 7,
         "title": "Top 10 Programming Languages to Learn",
         "tags": [
             "#Programming",
@@ -33,7 +33,7 @@
         "author": "Alice Johnson",
         "author_img": "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-09",
-        "reading_time": "6",
+        "reading_time": 6,
         "title": "The Rise of Quantum Computing",
         "tags": [
             "#Quantum",
@@ -47,7 +47,7 @@
         "author": "Bob Lee",
         "author_img": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-11",
-        "reading_time": "4",
+        "reading_time": 4,
         "title": "Understanding Blockchain Technology",
         "tags": [
             "#Blockchain",
@@ -61,7 +61,7 @@
         "author": "Chris Davis",
         "author_img": "https://images.unsplash.com/photo-1453396450673-3fe83d2db2c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fG1hbGUlMjBhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-08",
-        "reading_time": "8",
+        "reading_time": 8,
         "title": "The Benefits of a Plant-Based Diet",
         "tags": [
             "#Health",
@@ -75,7 +75,7 @@
         "author": "Emma Wilson",
         "author_img": "https://images.unsplash.com/photo-1674049405771-4c1f8c312d8f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjA0fHxhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-07",
-        "reading_time": "10",
+        "reading_time": 10,
         "title": "Climate Change and Its Impact on Agriculture",
         "tags": [
             "#ClimateChange",
@@ -89,7 +89,7 @@
         "author": "Liam Brown",
         "author_img": "https://plus.unsplash.com/premium_photo-1682088852290-a6aaa1472920?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU3fHxhdXRob3J8ZW58MHx8MHx8fDA%3D",
         "post_date": "2025-01-06",
-        "reading_time": "3",
+        "reading_time": 3,
         "title": "The Psychology of Habits",
         "tags": [
             "#Psychology",
@@ -103,7 +103,7 @@
         "author": "Sophia Miller",
         "author_img": "https://images.unsplash.com/photo-1688572865439-be9cd43b6986?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
         "post_date": "2025-01-05",
-        "reading_time": "9",
+        "reading_time": 9,
         "title": "Exploring Space: The Next Frontier",
         "tags": [
             "#Space",
@@ -117,7 +117,7 @@
         "author": "Oliver Taylor",
         "author_img": "https://images.unsplash.com/photo-1630344745900-b5385f94f26c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
         "post_date": "2025-01-04",
-        "reading_time": "5",
+        "reading_time": 5,
         "title": "Advancements in Renewable Energy",
         "tags": [
             "#RenewableEnergy",
@@ -131,7 +131,7 @@
         "author": "Mia Anderson",
         "author_img": "https://images.unsplash.com/photo-1733231291506-34503f83f503?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGF1dGhvciUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D",
         "post_date": "2025-01-03",
-        "reading_time": "6",
+        "reading_time": 6,
         "title": "The Art of Mindfulness",
         "tags": [
             "#Mindfulness",
